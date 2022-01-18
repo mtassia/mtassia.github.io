@@ -56,6 +56,10 @@ en: &DEFAULT_EN
     social:
       - url: https://github.com/mtassia
         icon: "fab fa-github"
+      - url: https://scholar.google.com/citations?user=dmBl40wAAAAJ&hl=en
+        icon: "fas fa-graduation-cap"
+      - url: mtassia1@jhu.edu
+        icon: "fas fa-envelope"
 
 en-US:
   <<: *DEFAULT_EN
