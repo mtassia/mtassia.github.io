@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "mtassia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: "mtassia.github.io" # the subpath of your site, e.g. /blog
 
-title      : Michael Tassia
+title      : Michael Tassia, Ph.D. 
 email      : mtassia1@jhu.edu #this is also the email contact forms will go to
 description: "Personal website for Michael Tassia"
 author     : Michael Tassia
