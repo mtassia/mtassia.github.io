@@ -16,11 +16,11 @@ en: &DEFAULT_EN
     #button: About Me
     #buttonlink: "#About"
 
-  About:
+  about:
     title: "About Me"
     text: "Fascinated by all things strange"
     body: "Temporary text body here"
-    section: About
+    section: about
 
   services:
     title: "Services"
