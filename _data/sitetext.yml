@@ -22,10 +22,10 @@ en: &DEFAULT_EN
     body: "Temporary text body here"
     section: about
 
-  timeline:
+  research:
     title: "Research Interests"
     text: "The wacky & wonderful world of animal evolution"
-    section: timeline
+    section: research
     # left is the default
     #start_align: "left"
     events:
