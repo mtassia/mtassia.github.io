@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Michael Tassia, Ph.D.
-    text: "McCoy Lab, Johns Hopkins University"
+    text: "[McCoy Lab](https://mccoy-lab.org/people/), Johns Hopkins University"
     #button: About Me
     #buttonlink: "#About"
 
