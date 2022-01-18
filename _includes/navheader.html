@@ -45,7 +45,7 @@
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
 	  {%- endif -%}
 	<!-- Social Media -->
-     	<div class="col-md-4">
+     	<div class="col-md-4 d-flex justify-content-center">
          <ul class="list-inline social-buttons">
           {% for link in site.data.sitetext[site.locale].footer.social %}
           <li class="list-inline-item">
@@ -58,6 +58,7 @@
           {% endfor %}
          </ul>
        </div>
+       <!-- End Social Media -->
       </div>
      </div>
   </header>
