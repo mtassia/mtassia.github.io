@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "About"
+      section: About
     - title: "Research Interests"
       section: Research Interests
     - title: "Publications"
       section: Publications
-    - title: "About"
-      section: About
-#    - title: "Timeline"
-#      section: timeline
+    - title: "Curriculum Vitae"
+      section: CV
 #    - title: "Team"
 #      section: team
     - title: "Contact"
