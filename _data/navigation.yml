@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "About Me"
       section: about
     - title: "Research Interests"
-      section: research
+      section: timeline
     - title: "Publications"
       section: publications
     - title: "Curriculum Vitae"
