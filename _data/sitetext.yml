@@ -11,10 +11,16 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Michael G. Tassia, Ph.D.
+    text: Postdoctoral Fellow in the McCoy Lab at Johns Hopkins University
+    #button: About Me
+    #buttonlink: "#About"
+
+  About:
+    title: "About Me"
+    text: "Fascinated by all things strange"
+    body: "[Temporary text body here]"
+    section: About
 
   services:
     title: "Services"
@@ -67,12 +73,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
-
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
 
   clients:
     section: clients
