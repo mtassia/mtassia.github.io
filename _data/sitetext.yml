@@ -25,7 +25,7 @@ en: &DEFAULT_EN
   research:
     title: "Research Interests"
     text: "The wacky & wonderful world of animal evolution"
-    section: research
+    section: timeline
     # left is the default
     #start_align: "left"
     events:
