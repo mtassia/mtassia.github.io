@@ -12,17 +12,17 @@
 en: &DEFAULT_EN
   nav:
     - title: "About Me"
-      section: About
+      section: about
     - title: "Research Interests"
-      section: Research Interests
+      section: research
     - title: "Publications"
-      section: Publications
+      section: publications
     - title: "Curriculum Vitae"
       section: CV
 #    - title: "Team"
 #      section: team
     - title: "Contact"
-      section: Contact
+      section: contact
 #    - title: "Theme Source"
 #      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
