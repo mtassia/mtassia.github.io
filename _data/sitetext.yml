@@ -53,7 +53,7 @@ en: &DEFAULT_EN
         align: right
   
   publications:
-    title: "If this text shows up it worked!"
+    title: "Publications"
 
   footer:
     social:
