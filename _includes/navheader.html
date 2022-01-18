@@ -44,10 +44,9 @@
 	  {%- if site.data.sitetext[site.locale].header.button -%}
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
 	  {%- endif -%}
-      </div>
-      <!-- Social Media -->
-      <div class="col-md-4">
-        <ul class="list-inline social-buttons">
+	<!-- Social Media -->
+     	<div class="col-md-4">
+         <ul class="list-inline social-buttons">
           {% for link in site.data.sitetext[site.locale].footer.social %}
           <li class="list-inline-item">
             {% if link.url %}
@@ -57,8 +56,9 @@
             {% endif %}
           </li>
           {% endfor %}
-        </ul>
+         </ul>
+       </div>
       </div>
-    </div>
+     </div>
   </header>
   <!-- End Header -->
