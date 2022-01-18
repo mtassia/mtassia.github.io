@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Michael G. Tassia, Ph.D.
+    title: Michael Tassia, Ph.D.
     text: "McCoy Lab, Johns Hopkins University"
     #button: About Me
     #buttonlink: "#About"
@@ -23,35 +23,34 @@ en: &DEFAULT_EN
     section: about
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Research Interests"
+    text: "The wacky & wonderful world of animal evolution"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Genome Evolution"
+        #year: "2009-2011"
+        desc: "Genomes, their variation, and how they generate biodiversity"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Biodiversity"
+        #year: "March 2011"
+        desc: "A planet filled to the brim with strange organisms that compete through evolutionary innovations"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Immunity Evolution"
+        #year: "2019"
+        desc: "An organisms defense against microscopic invaders hellbent on exploiting their host's biological features"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Hemichordates"
+        #year: "2009-2011"
+        desc: "A face only a mother could love"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
 
   footer:
     social:
