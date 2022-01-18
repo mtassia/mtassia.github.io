@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "About"
+    - title: "About Me"
       section: About
     - title: "Research Interests"
       section: Research Interests
