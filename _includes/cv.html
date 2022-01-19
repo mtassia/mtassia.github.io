@@ -1,14 +1,17 @@
 <!-- CV --> 
-  <section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].cv.section | default: "about" }}">
+  <section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].cv.section | default: "cv" }}">
    <div class="container">
      <div class="row">
        <div class="col-lg-12 text-center">
-         <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].cv.title | markdownify | default: "CV" }}</h2>
+         <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].cv.title | markdownify | default: "cv" }}</h2>
+         <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].cv.text | default: "cv" }}</h3>
        </div>
      </div>
      <br>
      <div class="row">
+       <div class="col-md-auto">
         <object data="../../CV_1_18_2022_Tassia.pdf" width="1000" height="1000" type='application/pdf'/></object>
+       </div>
      </div>
    </div>
   </section>
