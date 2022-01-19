@@ -58,6 +58,7 @@ en: &DEFAULT_EN
 
   cv:
     title: "Curriculum Vitae"
+    text: "Last updated: 1/18/2022"
 
   footer:
     social:
