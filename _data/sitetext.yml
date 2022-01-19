@@ -54,6 +54,7 @@ en: &DEFAULT_EN
   
   publications:
     title: "Peer-Reviewed Publications"
+    text: "For other publications, see CV below"
 
   footer:
     social:
