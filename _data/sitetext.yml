@@ -47,7 +47,7 @@ en: &DEFAULT_EN
       - title: "Hemichordates"
         #year: "2009-2011"
         desc: "A face only a mother could love"
-        image: assets/img/timeline/5.jpg
+        image: assets/img/timeline/4_2.jpg
         alt:
         # you can enforce the alignment
         align: right
