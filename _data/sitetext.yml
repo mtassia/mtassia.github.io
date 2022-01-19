@@ -58,7 +58,7 @@ en: &DEFAULT_EN
 
   cv:
     title: "Curriculum Vitae"
-    text: "Last updated: 1/18/2022"
+    text: "CV can be downloaded [here](https://github.com/mtassia/Curriculum_vitae)."
 
   footer:
     social:
