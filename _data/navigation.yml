@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     - title: "Publications"
       section: publications
     - title: "Curriculum Vitae"
-      section: CV
+      section: cv
 
 en-US:
   <<: *DEFAULT_EN
