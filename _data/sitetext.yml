@@ -56,6 +56,9 @@ en: &DEFAULT_EN
     title: "Peer-Reviewed Publications"
     text: "For other authorships, see CV below"
 
+  cv:
+    title: "Curriculum Vitae"
+
   footer:
     social:
       - url: https://github.com/mtassia
