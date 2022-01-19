@@ -1,14 +1,15 @@
 <!-- About -->
 <section class="page-section" id="{{ site.data.sitetext[site.locale].about.section | default: "about" }}">
  <div class="container">
+  <div class="row">
   
-  <div class="col-sm-4">
-   <div class="team-member">
-    <img class="mx-auto rounded-circle" src="assets/img/Profile_square.png" alt="">
+   <div class="col-lg-12">
+    <div class="team-member">
+     <img class="mx-auto rounded-circle" src="assets/img/Profile_square.png" alt="">
+    </div>
    </div>
-  </div>
   
-  <div class=col-lg-12 text-center" 
+   <div class=col-lg-12 text-center" 
     
     <div class="row">
      <div class="col-lg-12 text-center">
@@ -22,7 +23,8 @@
         <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body | markdownify }}</div>
      </div>
     </div>
-
+                                     
+   </div>
   </div>
  </div>
 </section>
