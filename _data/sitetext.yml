@@ -58,7 +58,7 @@ en: &DEFAULT_EN
 
   cv:
     title: "Curriculum Vitae"
-    text: "CV can be downloaded [here](https://github.com/mtassia/Curriculum_vitae/blob/main/CV_1_18_2022_Tassia.pdf)"
+    text: "CV can be downloaded *[here](https://github.com/mtassia/Curriculum_vitae/blob/main/CV_1_18_2022_Tassia.pdf)*"
 
   footer:
     social:
