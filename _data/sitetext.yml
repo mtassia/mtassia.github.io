@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "Fascinated by all things strange"
-    body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    body: "It all began with a formal introduction to the dynamic ecoystem of marine invertebrates that occupy the Salish Sea in 2014. Since then, my scientific interests have focussed on applying the principles of molecular evolution, phylogenetics, and the coupling of experimental biology with bioinformatics to address questions about how genomes have evolved across the animal Kingdom."
     section: about
 
   timeline:
@@ -31,7 +31,7 @@ en: &DEFAULT_EN
     events:
       - title: "Genome Evolution"
         #year: "2009-2011"
-        desc: "Genomes, their variation, and how they generate biodiversity"
+        desc: "The relationships among genomes of a single species or across deep evolutionary timescales"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Biodiversity"
@@ -41,12 +41,12 @@ en: &DEFAULT_EN
         alt:
       - title: "Immunity Evolution"
         #year: "2019"
-        desc: "An organisms defense against microscopic invaders hellbent on exploiting their host's biological features"
+        desc: "An organism's defense against microscopic invaders hell-bent on exploiting their host's biological features"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Hemichordates"
         #year: "2009-2011"
-        desc: "A face only a mother could love"
+        desc: "A face only a mother could love; a group of overlooked and enigmantic marine invertebrates worthy of their own conference"
         image: assets/img/timeline/4_2.jpg
         alt:
         # you can enforce the alignment
