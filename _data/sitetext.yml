@@ -30,26 +30,21 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Genome Evolution"
-        #year: "2009-2011"
         desc: "The relationships among genomes of a single species or across deep evolutionary timescales"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Biodiversity"
-        #year: "March 2011"
         desc: "A planet filled to the brim with strange organisms that compete through evolutionary innovations"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Immunity Evolution"
-        #year: "2019"
         desc: "An organism's defense against microscopic invaders hell-bent on exploiting their host's biological features"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Hemichordates"
-        #year: "2009-2011"
         desc: "A face only a mother could love; a group of overlooked and enigmantic marine invertebrates worthy of their own conference"
         image: assets/img/timeline/4_2.jpg
         alt:
-        # you can enforce the alignment
         align: right
   
   publications:
@@ -58,7 +53,7 @@ en: &DEFAULT_EN
 
   cv:
     title: "Curriculum Vitae"
-    text: "CV can be downloaded *[here](https://github.com/mtassia/Curriculum_vitae/blob/main/CV_1_18_2022_Tassia.pdf)*"
+    text: "CV can be downloaded *[here](https://github.com/mtassia/Curriculum_vitae/blob/main/CV_Tassia.pdf)*"
 
   footer:
     social:
