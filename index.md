@@ -9,25 +9,21 @@ layout: home
 title: Michael Tassia
 ---
 
-::::{grid} 2
-:padding: 1
+<div style="display:flex; align-items:flex-start; gap:1.25rem; flex-wrap:wrap;">
+	<img
+		src="{{ '/assets/images/me.jpg' | relative_url }}"
+		alt="Michael Tassia"
+		style="width:220px; height:250px; object-fit:cover;"
+	>
+	<div>
+		<strong>Michael Tassia</strong><br>
+		Postdoctoral Fellow<br>
+		<a href="https://bio.jhu.edu/">Johns Hopkins University</a><br>
+		mtassia1 [at] jhu [dot] com<br>
+	</div>
+</div>
 
-:::{grid-item}
-:columns: auto
-
-```{image} ./images/me.jpg
-:height: 250px
-:width: 220px
-```
-:::
-
-:::{grid-item}
-:columns: auto
-
-**Michael Tassia**<br>
-Postdoctoral Fellow<br>
-[Johns Hopkins University](https://bio.jhu.edu/)<br>
-mtassia1 [at] jhu [dot] com<br>
+---
 
 ### Bioinformatician | Data scientist | Geneticist
 
