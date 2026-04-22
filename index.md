@@ -6,13 +6,13 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: 
+title: Michael Tassia
 ---
 
-## Bioinformatician | Data scientist | Geneticist
+### Bioinformatician | Data scientist | Geneticist
 
-I am a postdoctoral fellow at Johns Hopkins University with joint appointments in the Departments of Biology and Hematology. My research focuses on the the application of computational techniques to understand how somatic genetic variation contributes to human health and disease, particularly in the context of hematologic cancers. 
+I am a postdoctoral fellow in the [McCoy Lab](https://mccoy-lab.org/) at Johns Hopkins University, with joint appointments in the Departments of Biology and Hematology. My research focuses on the the application of computational techniques to understand **how somatic genetic variation contributes to human health and disease**, particularly in the context of hematologic cancers. 
 
-I am trained as a **bioinformatician**, **data scientist**, and **geneticist**, and I am passionate about delivering *interpretable* written/visual results that clearly communicate biological insights while also being *reproducible* and *accessible* to the broader scientific community. 
+I am passionate about delivering *interpretable* written/visual results that clearly communicate biological insights while also being *reproducible* and *accessible* to the broader scientific community. 
 
 

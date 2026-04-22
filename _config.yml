@@ -33,6 +33,7 @@ minima:
   #   should be rendered.
   nav_pages:
     - research.md
+    - publications.md
     - resume.md
     - contact.md
 
