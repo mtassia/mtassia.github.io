@@ -12,7 +12,7 @@ I lead the development and application of novel statistical methods aimed at unc
 
 We are currently applying this approach to examine the role of complex evolutionary histories throughout lifetimes of hematopoiesis.
 
-#### *Code:*
+*Code:*
 [`Somatic mutation SCM`](https://github.com/mtassia/somatic_mutation_scm)
 
 ### Examining the role of telomere biology on hematopoiesis

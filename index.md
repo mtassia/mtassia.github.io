@@ -9,11 +9,11 @@ layout: home
 title: Michael Tassia
 ---
 
-<div style="display:flex; align-items:flex-start; justify-content:center; gap:1.25rem; flex-wrap:wrap; margin:0 auto; max-width:900px;">
+<div style="display:flex; align-items:center; justify-content:center; gap:1.25rem; flex-wrap:wrap; margin:0 auto; max-width:900px;">
 	<img
 		src="{{ '/assets/images/me.jpg' | relative_url }}"
 		alt="Michael Tassia"
-		style="width:220px; height:250px; object-fit:cover;"
+		style="width:220px; height:220px; object-fit:cover; border-radius:50%; border:4px solid #ffffff;"
 	>
 	<div>
 		<strong>Michael Tassia</strong><br>
@@ -22,6 +22,9 @@ title: Michael Tassia
 		mtassia1 [at] jhu [dot] com<br>
 	</div>
 </div>
+
+---
+<br>
 
 ### Bioinformatician | Data scientist | Geneticist
 
