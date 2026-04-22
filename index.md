@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Michael Tassia, PhD
+title: 
 ---
 
 ## Bioinformatician | Data scientist | Geneticist
