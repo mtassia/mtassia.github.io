@@ -16,19 +16,15 @@ title: Michael Tassia
 		style="width:220px; height:250px; object-fit:cover;"
 	>
 	<div>
-		<strong>Michael Tassia</strong><br>
-		Postdoctoral Fellow<br>
-		<a href="https://bio.jhu.edu/">Johns Hopkins University</a><br>
-		mtassia1 [at] jhu [dot] com<br>
+		<h3>Michael Tassia, PhD</h3>
+        <h4>Bioinformatician | Data scientist | Geneticist</h4>
+		<p>
+			I am a <strong>postdoctoral fellow</strong> in the <a href="https://mccoy-lab.org/">McCoy Lab</a> at Johns Hopkins University, with joint appointments in the Departments of Biology and Hematology. My research focuses on the the application of computational techniques to understand <strong><em>how somatic genetic variation contributes to human health and disease</em></strong>, particularly in the context of hematologic cancers.
+		</p>
+		<p>
+			I am passionate about delivering <em>interpretable</em> written/visual results that clearly communicate biological insights while also being <em>reproducible</em> and <em>accessible</em> to the broader scientific community.
+		</p>
 	</div>
 </div>
-
----
-
-### Bioinformatician | Data scientist | Geneticist
-
-I am a postdoctoral fellow in the [McCoy Lab](https://mccoy-lab.org/) at Johns Hopkins University, with joint appointments in the Departments of Biology and Hematology. My research focuses on the the application of computational techniques to understand **how somatic genetic variation contributes to human health and disease**, particularly in the context of hematologic cancers. 
-
-I am passionate about delivering *interpretable* written/visual results that clearly communicate biological insights while also being *reproducible* and *accessible* to the broader scientific community. 
 
 
