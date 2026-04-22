@@ -2,11 +2,11 @@ remote_theme: "jekyll/minima@4de3223"
 
 title: Michael Tassia
 author:
-  name: mtassia
+  name: Michael Tassia (mtassia)
   email: mtassia1@jh.edu
 
 description: >
-  This is the personal website of Michael Tassia, a postdoctoral fellow in the Biology Department at Johns Hopkins University.
+  I am currently on the job market! Please feel free to reach out if you are interested in learning more about my research or if you have any questions about my work.
 
 plugins:
   - jekyll-feed
@@ -32,6 +32,8 @@ minima:
   #   the `path` property (as represented via Liquid) of the pages in the order they
   #   should be rendered.
   nav_pages:
+    - research.md
+    - resume.md
     - contact.md
 
   # Set to `true` to show excerpts on the homepage.

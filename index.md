@@ -6,10 +6,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Michael Tassia, PhD
 ---
 
-## Postdoctoral fellow @ Johns Hopkins University
-### Bioinformatician | Data scientist | Geneticist
+## Bioinformatician | Data scientist | Geneticist
 
 I am a postdoctoral fellow at Johns Hopkins University with joint appointments in the Departments of Biology and Hematology. My research focuses on the the application of computational techniques to understand how somatic genetic variation contributes to human health and disease, particularly in the context of hematologic cancers. 
 
