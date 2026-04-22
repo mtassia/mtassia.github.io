@@ -22,8 +22,6 @@ title: Michael Tassia
 		mtassia1 [at] jhu [dot] com<br>
 	</div>
 </div>
-
----
 <br>
 
 ### Bioinformatician | Data scientist | Geneticist
