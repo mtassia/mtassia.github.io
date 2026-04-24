@@ -13,7 +13,7 @@ permalink: /resume/
 </iframe>
 
 <p>
-  If the viewer does not load, <a href="{{ '/assets/resume_04032026.pdf' | relative_url }}">download the PDF</a>.
+  If the viewer does not load, <a href="{{ '/assets/resume.pdf' | relative_url }}">download the PDF</a>.
 </p>
 
 ---

@@ -26,8 +26,8 @@ title: Michael Tassia
 
 ### Bioinformatician | Data scientist | Geneticist
 
-I am a **postdoctoral fellow** in the [McCoy Lab](https://mccoy-lab.org/) at Johns Hopkins University, with joint appointments in the Departments of Biology and Hematology. My research focuses on the the application of computational techniques to understand ***how somatic genetic variation contributes to human health and disease***, particularly in the context of hematologic cancers. 
+I am a **postdoctoral fellow** in the [McCoy Lab](https://mccoy-lab.org/) at Johns Hopkins University, with joint appointments in the Departments of Biology and Hematology. I am fascinated by *how evolution shapes the natural world*, ranging in scale from species to cells, and how genetic information can be used to understand the processes (and possible outcomes) of evolution.
 
-I am passionate about delivering *interpretable* written/visual results that clearly communicate biological insights while also being *reproducible* and *accessible* to the broader scientific community. 
+I began my scientific career studying marine invertebrates (a beautifully diverse group of animals that encompass over 500 million years of evolution) at the University of Washington's Friday Harbor Marine Labs. During my PhD research at Auburn University, I applied my fascination with marine biodiversity to studying the evolution of innate immunity --- focussing specifically on a group of invertebrates called acorn worms. With a strong foundation in computational biology and evolutionary genetics, I have since transitioned to studying the evolutionary processess that take shape within an individual's lifetime, particularly in the context of aging and cancer. 
 
-
+In addition to my research goals, I am passionate about delivering *interpretable* written/visual results that clearly communicate biological insights while also being *reproducible* and *accessible* to the broader scientific community. 
