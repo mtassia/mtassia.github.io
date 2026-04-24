@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 <iframe
-  src="{{ '/assets/resume_04032026.pdf' | relative_url }}"
+  src="{{ '/assets/resume.pdf' | relative_url }}"
   width="100%"
   height="900"
   style="border:1px solid #ddd; border-radius:8px;"
